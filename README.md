@@ -12,9 +12,14 @@
 
 Welcome Candidate and thank you for taking the time to complete the Master Ventures take-home test for our senior frontend engineer position.
 
-You will have **2 days** to complete the assignment. Once you have completed your solution, please reply with a link to a github repository and instructions on how to install / run the application.
+You will have **2 days** to complete the assignment. Once you have completed your solution, **PLEASE FOLLOW THE INSTRUCTIONS BELOW:** 
 
-> **Update this README.md with the instructions to test your solution, create a section titled: `TEST-INSTRUCTIONS`**
+- Fork this Repo
+- Make your changes per this tests requirements and push your changes to your **`forked repo`**
+- Once you are done with the test. Please make sure:
+  - `All changes have been pushed to your repo`. 
+  - **Please reply via email with a link to the forked github repository and instructions on how to install / run the application.**
+- **Update this README.md with the instructions to test your solution, create a section titled: `TEST-INSTRUCTIONS`**
 
 The goal of this test is to build out a "Movie Awards 2021" interactive ballot. Please clone this repository and submit it once you are finished.
 
