@@ -14,7 +14,8 @@ Welcome Candidate and thank you for taking the time to complete the Master Ventu
 
 You will have **2 days** to complete the assignment. Once you have completed your solution, **PLEASE FOLLOW THE INSTRUCTIONS BELOW:** 
 
-- Fork this Repo
+- Clone this Repo.
+- Create your own public repo and push the code up to your `new public repository`.
 - Make your changes per this tests requirements and push your changes to your **`forked repo`**
 - Once you are done with the test. Please make sure:
   - `All changes have been pushed to your repo`. 
